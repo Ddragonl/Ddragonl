@@ -1,5 +1,17 @@
 ### 👋 About Me  
-Hi～我是 Ddragonl，杭州电子科技大学通信工程专业的一名研究生。
+Hi, I'm Ddragonl, a master's student from Hangzhou Dianzi University. 
+- ⭐ Alibaba Cloud Expert Blogger.
+- 📊 **Research Interests**: Reinforcement Learning, Path Planning, Big Data Analysis and Mining, Operational Research Optimization, etc.  
+- 📧 **Contact**: Email: 2486238840@qq.com  
 
-📧 邮箱：2486238840@qq.com  
-🌐 个人博客：[你的博客链接](https://blog.csdn.net/m0_64087341?spm=1010.2135.3001.10640)  
+### Competition
+- 2024年“华为杯”第二十一届中国研究生数学建模竞赛全国一等奖
+- 2023年“华为杯”第二十届中国研究生数学建模竞赛全国一等奖、华为专项奖
+- 2022年中国高校大数据挑战赛全国一等奖
+- 2022年全国大学生数据分析大赛全国二等奖
+- 2022年MathorCup杯全国大学生数学建模竞赛全国二等奖
+
+
+
+
+
