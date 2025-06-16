@@ -2,7 +2,7 @@
 Hi, I'm Ddragonl, a master's student from Hangzhou Dianzi University. 
 - ⭐ Alibaba Cloud Expert Blogger.
 - 📊 **Research Interests**: Reinforcement Learning, Path Planning, Big Data Analysis and Mining, Operational Research Optimization, etc.  
-- 📧 **Contact**: Email: 2486238840@qq.com  
+- 📧 **Contact**: 2486238840@qq.com  
 
 ### Competition
 - 2024年“华为杯”第二十一届中国研究生数学建模竞赛全国一等奖
